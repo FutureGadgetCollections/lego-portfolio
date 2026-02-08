@@ -1,17 +1,17 @@
 # Site settings
-title: Funko Portfolio
-description: Track your Funko sealed product investments and performance
-baseurl: "/funko-portfolio" # subpath of your site, e.g. /portfolio
+title: Lego Portfolio
+description: Track your Lego product investments and performance
+baseurl: "/lego-portfolio" # subpath of your site, e.g. /portfolio
 url: "https://futuregadgettemplates.github.io" # the base hostname & protocol for your site
 
 # Google Sheets URLs
 sheets:
-  published: "https://docs.google.com/spreadsheets/d/e/2PACX-1vThQTlmAdia_Pj0LWnfjSGOD_e0UQJgeu3O2l_bmhBj7Q0oK62kdkgyPKv6tMzwOPvtR-goQ-8iZQJk/pubhtml"
-  edit: "https://docs.google.com/spreadsheets/d/1OlYILmd0U3pcQDQrgwL-HuahbBIKExuRM8KMoejvQ98/edit?usp=sharing"
+  published: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTNkmW0vOR8iPycOSVAQJhODuSJyhKPgLmZL52Jrtx_pnNChgVHlhzQuz5cvasu7pSrVkm48QmHIHVu/pubhtml"
+  edit: "https://docs.google.com/spreadsheets/d/1kOPL6LNCvlEDGGGwISJY8ZslBoB36d4bjTmsR8alF1k/edit?usp=sharing"
 #  collectr: ""
-  transactions: "https://docs.google.com/spreadsheets/d/e/2PACX-1vThQTlmAdia_Pj0LWnfjSGOD_e0UQJgeu3O2l_bmhBj7Q0oK62kdkgyPKv6tMzwOPvtR-goQ-8iZQJk/pub?gid=0&single=true&output=tsv"
-  holdings: "https://docs.google.com/spreadsheets/d/e/2PACX-1vThQTlmAdia_Pj0LWnfjSGOD_e0UQJgeu3O2l_bmhBj7Q0oK62kdkgyPKv6tMzwOPvtR-goQ-8iZQJk/pub?gid=1563230874&single=true&output=tsv"
-  sales: "https://docs.google.com/spreadsheets/d/e/2PACX-1vThQTlmAdia_Pj0LWnfjSGOD_e0UQJgeu3O2l_bmhBj7Q0oK62kdkgyPKv6tMzwOPvtR-goQ-8iZQJk/pub?gid=845485488&single=true&output=tsv"
+  transactions: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTNkmW0vOR8iPycOSVAQJhODuSJyhKPgLmZL52Jrtx_pnNChgVHlhzQuz5cvasu7pSrVkm48QmHIHVu/pub?gid=0&single=true&output=tsv"
+  holdings: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTNkmW0vOR8iPycOSVAQJhODuSJyhKPgLmZL52Jrtx_pnNChgVHlhzQuz5cvasu7pSrVkm48QmHIHVu/pub?gid=1563230874&single=true&output=tsv"
+  sales: "https://docs.google.com/spreadsheets/d/e/2PACX-1vTNkmW0vOR8iPycOSVAQJhODuSJyhKPgLmZL52Jrtx_pnNChgVHlhzQuz5cvasu7pSrVkm48QmHIHVu/pub?gid=845485488&single=true&output=tsv"
 
 # Build settings
 markdown: kramdown
